@@ -1,0 +1,11 @@
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\bin\Debug\netcoreapp3.1\Second-C-Sharp.exe
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\bin\Debug\netcoreapp3.1\Second-C-Sharp.deps.json
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\bin\Debug\netcoreapp3.1\Second-C-Sharp.runtimeconfig.json
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\bin\Debug\netcoreapp3.1\Second-C-Sharp.runtimeconfig.dev.json
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\bin\Debug\netcoreapp3.1\Second-C-Sharp.dll
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\bin\Debug\netcoreapp3.1\Second-C-Sharp.pdb
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\obj\Debug\netcoreapp3.1\Second-C-Sharp.csprojAssemblyReference.cache
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\obj\Debug\netcoreapp3.1\Second-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\obj\Debug\netcoreapp3.1\Second-C-Sharp.AssemblyInfo.cs
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\obj\Debug\netcoreapp3.1\Second-C-Sharp.dll
+C:\Users\Oluwa\Documents\hotdocs\Second-C-Sharp\obj\Debug\netcoreapp3.1\Second-C-Sharp.pdb
